@@ -41,8 +41,8 @@ _Add screenshots of your UI here (optional)_
 
 ## 📌 Author
 
-- Developed by [Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Developed by [Vaibhavi Shinde]
+- GitHub: [@yourusername](https://github.com/VaibhaviS123)
 
 ---
 
