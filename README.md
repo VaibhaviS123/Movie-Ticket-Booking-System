@@ -1,4 +1,4 @@
-# 🎬 Movie Ticket Booking System
+![Screenshot 2025-04-13 173743](https://github.com/user-attachments/assets/a0b5f462-e9f8-4477-8850-dd6b095c7531)![Screenshot 2025-04-13 173743](https://github.com/user-attachments/assets/2cb3abfc-d42a-4e28-8500-bf719681267a)# 🎬 Movie Ticket Booking System
 
 A Java-based GUI application for booking movie tickets with features like seat selection, payment options (UPI, Card), and ticket generation. Built using **Java Swing** and **MySQL**, this mini-project is ideal for demonstrating database connectivity, UI design, and core Java concepts.
 
@@ -35,20 +35,13 @@ git clone https://github.com/VaibhaviS123/MovieTicketBooking.git
 
 6. Run the `WelcomePage.java` to start the app.
 
-## 📸 Screenshots
-
-_Add screenshots of your UI here (optional)_
 
 ## 📌 Author
 
 - Developed by [Vaibhavi Shinde]
-- GitHub: [@yourusername](https://github.com/VaibhaviS123)
+- GitHub: [VaibhaviS123](https://github.com/VaibhaviS123)
 
----
 
-Feel free to customize this as per your features!
-
----
 
 ### ✅ **Option 2: Create via Command Line**
 
