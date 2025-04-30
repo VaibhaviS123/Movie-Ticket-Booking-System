@@ -43,12 +43,5 @@ git clone https://github.com/VaibhaviS123/MovieTicketBooking.git
 
 
 
-### ✅ **Option 2: Create via Command Line**
-
-If you're using Git Bash or terminal:
-
-```bash
-cd your-project-folder
-touch README.md
 
 
